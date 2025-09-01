@@ -247,16 +247,16 @@ def main(page: ft.Page):
         filtro_preco.value = "Todos"
         campo_busca.value = ""
 
-    # Recarrega os produtos sem filtros
-    carregar_produtos()
+        # Recarrega os produtos sem filtros
+        carregar_produtos()
 
-    # Mostra notificacao de que os filtros foram limpos
-    mostrar_notificacao("🔄️ Filtros limpos!")
+        # Mostra notificacao de que os filtros foram limpos
+        mostrar_notificacao("🔄️ Filtros limpos!")
 
-def mostrar_notificacao(mensagem):        
-    """Exibe uma mensagem de notificação para o usuário"""
-    notificacao.value = mensagem
-    page.update()
+    def mostrar_notificacao(mensagem):        
+        """Exibe uma mensagem de notificação para o usuário"""
+        notificacao.value = mensagem
+        page.update()
 
     # Conecta os eventos de mudança dos filtros à função de carregar produtos
     # Sempre que o usuário mudar algum filtro, os produtos serão recarregados
