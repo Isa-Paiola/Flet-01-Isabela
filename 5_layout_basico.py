@@ -2,7 +2,6 @@ import flet as ft
 
 def main(page: ft.Page):
     page.title = "Layouts Básicos"
-    page.title = 20
 
     # Vamos criar um layout organizado usando Column (vertical) e Row (horizontal)
 
