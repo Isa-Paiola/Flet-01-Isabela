@@ -261,6 +261,6 @@ def main(page: ft.Page):
     # Conecta os eventos de mudança dos filtros à função de carregar produtos
     # Sempre que o usuário mudar algum filtro, os produtos serão recarregados
     for controle in [filtro_categoria, filtro_preco, campo_busca]:
-        controle.om_change = carregar_produtos
+        controle.on_change = carregar_produtos
 
         
