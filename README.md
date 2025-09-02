@@ -41,13 +41,52 @@ Ele é inspirado no **Flutter**, oferecendo:
 
 ---
 
-## 🔍 Estrutura do repositório (sugestão)
-Flet-01-Isabela/
-##### ├── exemplos/
-##### │ ├── ola.py # Exemplo básico: Dizer Olá]
-##### │ └── galeria_animais.py # Exemplo com filtros e GridView
-##### ├── assets/ # Prints e imagens (opcional)
-##### └── README.md # Este arquivo
+## Prints dos "aplicativos" web
+### 1- Primeiro App
+
+---
+
+### 2- Botão Simples
+
+---
+
+### 3- Campo Texto
+
+---
+
+### 4- Lista Cores
+
+---
+
+### 5- Layout Básico
+
+---
+
+### 5a- Desafio 1
+
+---
+
+### 6- Contador
+
+---
+
+### 7- Calculadora
+
+---
+
+### 8- Painel Configuração
+
+---
+
+### 9- Galeria Cards
+
+---
+
+### 10- App Multipágina
+
+---
+
+### 10a- Desafio 2
 
 ---
 
