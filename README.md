@@ -43,11 +43,11 @@ Ele é inspirado no **Flutter**, oferecendo:
 
 ## 🔍 Estrutura do repositório (sugestão)
 Flet-01-Isabela/
-├── exemplos/
-│ ├── ola.py # Exemplo básico: Dizer Olá
-│ └── galeria_animais.py # Exemplo com filtros e GridView
-├── assets/ # Prints e imagens (opcional)
-└── README.md # Este arquivo
+##### ├── exemplos/
+##### │ ├── ola.py # Exemplo básico: Dizer Olá]
+##### │ └── galeria_animais.py # Exemplo com filtros e GridView
+##### ├── assets/ # Prints e imagens (opcional)
+##### └── README.md # Este arquivo
 
 ---
 
